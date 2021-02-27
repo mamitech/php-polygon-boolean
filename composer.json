@@ -1,5 +1,5 @@
 {
-  "name": "kudm761/martinez-rueda-php",
+  "name": "mamitech/php-polygon-boolean",
   "description": "Martinez-Rueda algorithm for polygon boolean operations",
   "keywords": ["polygon clipping", "polygon boolean operations", "polygon union", "polygon intersection",
     "polygon difference", "polygon xor", "geography", "martinez polygon algorithm", "martinez php"],
@@ -8,6 +8,11 @@
     {
       "name": "Dmitry Kubitsky",
       "email": "kudm761@gmail.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Bayu Hafiz",
+      "email": "bayuhafiz@mamiteam.com",
       "role": "Developer"
     }
   ],
